@@ -83,8 +83,7 @@ RegisterNumber:  212225240155
 ```
 
 ## Output:
-
-
+![WhatsApp Image 2026-03-16 at 10 27 01 AM](https://github.com/user-attachments/assets/5a752cf0-8633-4c02-a679-47c3693c7b57)
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
